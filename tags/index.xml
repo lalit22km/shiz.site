@@ -1,11 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Shiz.</title>
-    <link>https://shiz.site/tags/</link>
-    <description>Recent content in Tags on Shiz.</description>
+    <title>Tags on Shiz</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Shiz</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://shiz.site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chatgpt</title>
+      <link>http://localhost:1313/@chatgpt/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/@chatgpt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>http://localhost:1313/@css/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/@css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>html</title>
+      <link>http://localhost:1313/@html/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/@html/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It is often assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript. &lt;a href=&#34;https://en.wikipedia.org/wiki/HTML&#34;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/@markdown/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/@markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/@privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/@privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shortcodes</title>
+      <link>http://localhost:1313/@shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/@shortcodes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Text</title>
+      <link>http://localhost:1313/@text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/@text/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag I</title>
+      <link>http://localhost:1313/@tag-i/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/@tag-i/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag II</title>
+      <link>http://localhost:1313/@tag-ii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/@tag-ii/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag III</title>
+      <link>http://localhost:1313/@tag-iii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/@tag-iii/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

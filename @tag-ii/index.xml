@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag II on Shiz</title>
+    <link>http://localhost:1313/@tag-ii/</link>
+    <description>Recent content in Tag II on Shiz</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/@tag-ii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Key0</title>
+      <link>http://localhost:1313/key0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/key0/</guid>
+      <description>&lt;h2 id=&#34;header-a&#34;&gt;Header A&lt;/h2&gt;&#xA;&lt;p&gt;Cursus nisi fames at class integer volutpat sem phasellus, pharetra rutrum proin imperdiet aenean a ac, mollis dapibus id morbi accumsan eleifend magna. Habitant vitae pharetra consequat vulputate cras varius luctus feugiat laoreet, lacus eleifend cursus aptent purus quisque nam netus, mus quis interdum ligula et vel sagittis magna. Enim sodales cubilia ad fames mi faucibus quisque risus, ultrices massa libero interdum congue nec imperdiet nostra, himenaeos nunc magna potenti augue ac sagittis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Key1</title>
+      <link>http://localhost:1313/key1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/key1/</guid>
+      <description>&lt;h2 id=&#34;header-a&#34;&gt;Header A&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipiscing, elit lobortis felis magnis ullamcorper placerat elementum, donec auctor nisi nunc facilisis. Porttitor curabitur eros inceptos senectus aptent vel facilisi dignissim, pharetra suspendisse volutpat vitae molestie semper vivamus, ut sapien risus cursus leo nulla habitasse. Massa volutpat nibh semper urna ligula hendrerit torquent, venenatis phasellus magnis inceptos diam pharetra maecenas accumsan, erat per elementum pretium laoreet sagittis.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;lt;!DOCTYPE html&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;lt;html&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &amp;lt;head&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    {{ partial &amp;#34;head.html&amp;#34; . }}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &amp;lt;/head&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &amp;lt;body&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    {{- partial &amp;#34;header.html&amp;#34; . -}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;lt;div class=&amp;#34;content&amp;#34;&amp;gt;{{- block &amp;#34;main&amp;#34; . }}{{- end }}&amp;lt;/div&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    {{- partial &amp;#34;footer.html&amp;#34; . -}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &amp;lt;/body&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;lt;/html&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;header-b&#34;&gt;Header B&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum was conceived as filler text, formatted in a certain way to enable the presentation of graphic elements in documents, without the need for formal copy. Using Lorem Ipsum allows designers to put together layouts and the form of the content before the content has been created, giving the design and production process more freedom.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

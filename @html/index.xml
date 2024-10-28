@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Index on Shiz</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Index on Shiz</description>
+    <title>html on Shiz</title>
+    <link>http://localhost:1313/@html/</link>
+    <description>Recent content in html on Shiz</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Oct 2024 21:48:50 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/posts/test/</link>
-      <pubDate>Sun, 27 Oct 2024 21:48:50 +0530</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/@html/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advanced Markdown</title>
       <link>http://localhost:1313/new-post-3/</link>
@@ -49,41 +42,6 @@
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rich Content</title>
-      <link>http://localhost:1313/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Placeholder Text</title>
-      <link>http://localhost:1313/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Math Typesetting</title>
-      <link>http://localhost:1313/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Key0</title>
-      <link>http://localhost:1313/key0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/key0/</guid>
-      <description>&lt;h2 id=&#34;header-a&#34;&gt;Header A&lt;/h2&gt;&#xA;&lt;p&gt;Cursus nisi fames at class integer volutpat sem phasellus, pharetra rutrum proin imperdiet aenean a ac, mollis dapibus id morbi accumsan eleifend magna. Habitant vitae pharetra consequat vulputate cras varius luctus feugiat laoreet, lacus eleifend cursus aptent purus quisque nam netus, mus quis interdum ligula et vel sagittis magna. Enim sodales cubilia ad fames mi faucibus quisque risus, ultrices massa libero interdum congue nec imperdiet nostra, himenaeos nunc magna potenti augue ac sagittis.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Key1</title>
-      <link>http://localhost:1313/key1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/key1/</guid>
-      <description>&lt;h2 id=&#34;header-a&#34;&gt;Header A&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipiscing, elit lobortis felis magnis ullamcorper placerat elementum, donec auctor nisi nunc facilisis. Porttitor curabitur eros inceptos senectus aptent vel facilisi dignissim, pharetra suspendisse volutpat vitae molestie semper vivamus, ut sapien risus cursus leo nulla habitasse. Massa volutpat nibh semper urna ligula hendrerit torquent, venenatis phasellus magnis inceptos diam pharetra maecenas accumsan, erat per elementum pretium laoreet sagittis.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;lt;!DOCTYPE html&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;lt;html&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &amp;lt;head&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    {{ partial &amp;#34;head.html&amp;#34; . }}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &amp;lt;/head&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &amp;lt;body&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    {{- partial &amp;#34;header.html&amp;#34; . -}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;lt;div class=&amp;#34;content&amp;#34;&amp;gt;{{- block &amp;#34;main&amp;#34; . }}{{- end }}&amp;lt;/div&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    {{- partial &amp;#34;footer.html&amp;#34; . -}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &amp;lt;/body&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;lt;/html&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;header-b&#34;&gt;Header B&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum was conceived as filler text, formatted in a certain way to enable the presentation of graphic elements in documents, without the need for formal copy. Using Lorem Ipsum allows designers to put together layouts and the form of the content before the content has been created, giving the design and production process more freedom.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
