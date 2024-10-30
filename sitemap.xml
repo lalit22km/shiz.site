@@ -2,71 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://shiz.site/</loc>
     <lastmod>2024-10-27T21:48:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://shiz.site/posts/</loc>
     <lastmod>2024-10-27T21:48:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/test/</loc>
+    <loc>https://shiz.site/posts/test/</loc>
     <lastmod>2024-10-27T21:48:50+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/new-post-3/</loc>
+    <loc>https://shiz.site/new-post-3/</loc>
     <lastmod>2023-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/@chatgpt/</loc>
+    <loc>https://shiz.site/@chatgpt/</loc>
     <lastmod>2023-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/@css/</loc>
+    <loc>https://shiz.site/@css/</loc>
     <lastmod>2023-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/@html/</loc>
+    <loc>https://shiz.site/@html/</loc>
     <lastmod>2023-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/@markdown/</loc>
+    <loc>https://shiz.site/@markdown/</loc>
     <lastmod>2023-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/new-post-2/</loc>
+    <loc>https://shiz.site/new-post-2/</loc>
     <lastmod>2023-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/new-post-1/</loc>
+    <loc>https://shiz.site/new-post-1/</loc>
     <lastmod>2023-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://shiz.site/tags/</loc>
     <lastmod>2023-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/code-syntax/</loc>
+    <loc>https://shiz.site/code-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/markdown-syntax/</loc>
+    <loc>https://shiz.site/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/@privacy/</loc>
+    <loc>https://shiz.site/@privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rich-content/</loc>
+    <loc>https://shiz.site/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/@shortcodes/</loc>
+    <loc>https://shiz.site/@shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/placeholder-text/</loc>
+    <loc>https://shiz.site/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/@text/</loc>
+    <loc>https://shiz.site/@text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/math-typesetting/</loc>
+    <loc>https://shiz.site/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/key0/</loc>
+    <loc>https://shiz.site/key0/</loc>
   </url><url>
-    <loc>http://localhost:1313/key1/</loc>
+    <loc>https://shiz.site/key1/</loc>
   </url><url>
-    <loc>http://localhost:1313/@tag-i/</loc>
+    <loc>https://shiz.site/@tag-i/</loc>
   </url><url>
-    <loc>http://localhost:1313/@tag-ii/</loc>
+    <loc>https://shiz.site/@tag-ii/</loc>
   </url><url>
-    <loc>http://localhost:1313/@tag-iii/</loc>
+    <loc>https://shiz.site/@tag-iii/</loc>
   </url>
 </urlset>
